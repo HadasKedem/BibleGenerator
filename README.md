@@ -4,4 +4,6 @@
 - by episodes, generate episodes
 - vocabulery by char
 - vocabulery by words
-- tune the training 
+- tune the training
+    ~ make it bidirectional
+    ~ add layers
