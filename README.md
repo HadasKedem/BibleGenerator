@@ -7,3 +7,4 @@
 - tune the training
     ~ make it bidirectional
     ~ add layers
+- use GPT2 - fine tune 
